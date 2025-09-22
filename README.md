@@ -114,7 +114,7 @@ CREATE TABLE loans(
 
 ## Entity-Relationship Diagram (ERD)
 
-![Alt Text](images/ER_diagram.png)
+![Alt Text](images/ER_Diagram.png)
 ### Explanation of Relationships:
 
 **customers ↔ accounts**: One-to-many (a customer can have multiple accounts)
