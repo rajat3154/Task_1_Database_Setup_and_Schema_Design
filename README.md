@@ -1,5 +1,5 @@
 ## Bank Database Schema
- This project contains the schema for a simple banking system. It includes tables for customers, branches, accounts, transactions, and loans. The database is designed with normalization principles to avoid redundancy and ensure data integrity.
+ This Directory contains the schema for a simple banking system. It includes tables for customers, branches, accounts, transactions, and loans. The database is designed with normalization principles to avoid redundancy and ensure data integrity.
 
  ### Database Setup: bank
 
